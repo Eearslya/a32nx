@@ -4334,6 +4334,11 @@
                 <UseTemplate Name="FBW_AIRLINER_Audio_Panel_Template">
                     <ID>2</ID>
                     <SIDE>R</SIDE>
+
+                    <SEQ1_POWERED>(L:A32NX_ELEC_DC_2_BUS_IS_POWERED, Bool)</SEQ1_POWERED>
+                    <SEQ2_POWERED>(L:A32NX_ELEC_DC_2_BUS_IS_POWERED, Bool)</SEQ2_POWERED>
+                    <AUDIO_KNOB_POWERED>(L:A32NX_ELEC_DC_2_BUS_IS_POWERED, Bool)</AUDIO_KNOB_POWERED>
+
                     <NODE_ID_RECEIVER_VHF_L>KNOB_AUDIOR_VHF1</NODE_ID_RECEIVER_VHF_L>
                     <NODE_ID_LIGHT_RECEIVER_VHF_L>PUSH_AUDIOR_VHF1_EMIS</NODE_ID_LIGHT_RECEIVER_VHF_L>
                     <ANIM_NAME_KNOB_RECEIVER_VHF_L>KNOB_AUDIOR_VHF1</ANIM_NAME_KNOB_RECEIVER_VHF_L>
