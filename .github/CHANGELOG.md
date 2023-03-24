@@ -65,6 +65,7 @@
 1. [MCDU] Fix negative EFOB on FLIGHT PLAN page - @Revyn112 (Revyn112#1010)
 1. [MCDU] Fix EFOB and FUEL PRED get dashed out at TOD - @Revyn112 (Revyn112#1010)
 1. [ELEC] A more accurate simulation of the transformer rectifiers - @Gurgel100 (Pascal)
+1. [EFB] Added pause at T/D function - @2hwk (2Cas#1022)
 
 ## 0.9.0
 
